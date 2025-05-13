@@ -1,0 +1,15 @@
+/* File: styles/globals.css */
+
+body {
+    background: linear-gradient(to bottom right, #111827, #1f2937);
+    font-family: 'Minecraft', sans-serif;
+    color: #ffffff;
+}
+
+img {
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
